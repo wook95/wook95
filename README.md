@@ -1,5 +1,16 @@
-### Hi there 👋
+<div align="center" >
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=wookchang&fontSize=80&animation=fadeIn&fontAlign=70&fontAlignY=40)
+
+
+
+
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img alt="TypeScript" src = "https://img.shields.io/badge/TypeScript-%231572B6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
+
+  
+</div>
+  
 <!--
 **wook95/wook95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
