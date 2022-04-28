@@ -5,9 +5,9 @@
 
 
 
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img alt="Angular" src = "https://img.shields.io/badge/Angular-%23c83323.svg?style=for-the-badge&logo=Angular&logoColor=white" />
 <img alt="TypeScript" src = "https://img.shields.io/badge/TypeScript-%231572B6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
-
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   
 </div>
   
